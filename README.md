@@ -1,9 +1,8 @@
 # Hi, I'm Ashim 👋
 
-**CS student at Gettysburg College.
-I build AI/ML-powered tools that people actually use.**
+**CS student at Gettysburg College — I build AI-powered tools that people actually use.**
 
-From a makerspace assistant now running in my college's lab to a pipeline that turns 3D printers into a keychain vending service, I like turning real problems around me into working software.
+From a makerspace assistant I built for my college's lab to a pipeline that turns 3D printers into a keychain vending service, I like turning real problems around me into working software.
 
 🔭 Currently building **[G-Link](https://github.com/ashimaryal25-ops/G-Link)** — a platform that helps student organizations run events, meetings, and budgets in one place.
 
@@ -24,7 +23,7 @@ From a makerspace assistant now running in my college's lab to a pipeline that t
 
 ### 🚀 A few things I've built
 
-**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, deployed and used by students in the lab. → **[Live demo](https://iclassistant.up.railway.app)**
+**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, step by step. → **[Live demo](https://iclassistant.up.railway.app)**
 
 **[KeyForge](https://github.com/ashimaryal25-ops/KeyForge)** — a pipeline for a no-root 3D printer farm: type a name, and a printer makes the keychain.
 
