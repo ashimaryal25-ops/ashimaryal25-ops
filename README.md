@@ -1,6 +1,6 @@
 # Hi, I'm Ashim 👋
 
-**CS student at Gettysburg College — I build AI-powered tools that people actually use.**
+**CS student at Gettysburg College! I build AI-powered tools that people actually use.**
 
 From a makerspace assistant I built for my college's lab to a pipeline that turns 3D printers into a keychain vending service, I like turning real problems around me into working software.
 
