@@ -23,11 +23,11 @@ From a makerspace assistant I built for my college's lab to a pipeline that turn
 
 ### 🚀 A few things I've built
 
-**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, step by step. → **[Live demo](https://iclassistant.up.railway.app)**
+**[CardifyBooth](https://github.com/ashimaryal25-ops/CardifyBooth)** — an AI photo-booth kiosk that turns photos into personalized trading cards.
 
 **[KeyForge](https://github.com/ashimaryal25-ops/KeyForge)** — a pipeline for a no-root 3D printer farm: type a name, and a printer makes the keychain.
 
-**[CardifyBooth](https://github.com/ashimaryal25-ops/CardifyBooth)** — an AI photo-booth kiosk that turns photos into personalized trading cards.
+**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, step by step. → **[Live demo](https://iclassistant.up.railway.app)**
 
 **[Semantic Timeline Generator](https://github.com/ashimaryal25-ops/Semantic_Timeline_Generator)** — an NLP tool that extracts events and dates from documents and lays them out as a chronological timeline.
 
