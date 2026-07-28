@@ -1,12 +1,5 @@
-# Hi, I'm Ashim 👋
 
-**CS student at Gettysburg College! I build AI-powered tools that people actually use.**
-
-From a makerspace assistant I built for my college's lab to a pipeline that turns 3D printers into a keychain vending service, I like turning real problems around me into working software.
-
----
-
-### 🛠️ Tech I reach for
+### 🛠️ Techs I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,15 +14,13 @@ From a makerspace assistant I built for my college's lab to a pipeline that turn
 
 ### 🚀 A few things I've built
 
-**[CardifyBooth](https://github.com/ashimaryal25-ops/CardifyBooth)** — an AI photo-booth kiosk that turns photos into personalized trading cards.
+**[Cardifybooth](https://github.com/ashimaryal25-ops/Carifybooth)** — an AI photo-booth kiosk that turns photos into personalized trading cards.
 
-**[KeyForge](https://github.com/ashimaryal25-ops/KeyForge)** — a pipeline for a no-root 3D printer farm: type a name, and a printer makes the keychain.
+**[PrintFarm](https://github.com/ashimaryal25-ops/printfarm)** —  A no-root orchestration software for Creality printer farms — discover, monitor, and auto-route jobs on stock hardware.
 
 **[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, step by step. → **[Live demo](https://iclassistant.up.railway.app)**
 
 **[Semantic Timeline Generator](https://github.com/ashimaryal25-ops/Semantic_Timeline_Generator)** — an NLP tool that extracts events and dates from documents and lays them out as a chronological timeline.
-
-**[Bullet Cam](https://github.com/ashimaryal25-ops/bullet-cam)** — a real-time computer-vision face filter built with MediaPipe + OpenCV.
 
 ---
 
