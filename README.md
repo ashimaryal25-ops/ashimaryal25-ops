@@ -14,7 +14,7 @@
 
 ### 🚀 A few things I've built
 
-**[Cardifybooth](https://github.com/ashimaryal25-ops/Carifybooth)** — an AI photo-booth kiosk that turns photos into personalized trading cards.
+**[Cardifybooth](https://github.com/ashimaryal25-ops/Carifybooth)** — An immersive interactive installation combining an AI-assisted trading-card maker, a customizable photo-strip booth, and a camera-controlled arcade game, all unified under an old-school CRT-Retro wall experience.
 
 **[PrintFarm](https://github.com/ashimaryal25-ops/printfarm)** —  A no-root orchestration software for Creality printer farms — discover, monitor, and auto-route jobs on stock hardware.
 
