@@ -14,13 +14,13 @@
 
 ### 🚀 A few things I've built
 
-**[Cardifybooth](https://github.com/ashimaryal25-ops/ICLBooth)** — An immersive interactive installation combining an AI-assisted trading-card maker, a customizable photo-strip booth, and a camera-controlled arcade game, all unified under an old-school CRT-Retro wall experience.
+**[Cardifybooth](https://github.com/ashimaryal25-ops/ICLBooth):** An immersive interactive installation combining an AI-assisted trading-card maker, a customizable photo-strip booth, and a camera-controlled arcade game, all unified under an old-school CRT-Retro wall experience.
 
-**[PrintFarm](https://github.com/ashimaryal25-ops/printfarm)** —  A no-root orchestration software for Creality printer farms — discover, monitor, and auto-route jobs on stock hardware.
+**[PrintFarm](https://github.com/ashimaryal25-ops/printfarm):** A no-root orchestration layer for Creality printer farms. Discover printers, monitor free/busy status, and auto-route jobs on stock hardware.
 
-**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — a RAG assistant that rewrites the student's question, then retrieves from lab docs to walk them through equipment step by step.
+**[Jack](https://github.com/ashimaryal25-ops/ask-jack):** A RAG assistant that rewrites the student's question, then retrieves from lab docs to walk them through equipment step by step.
 
-**[Semantic Timeline Generator](https://github.com/ashimaryal25-ops/Semantic_Timeline_Generator)** — an NLP tool that extracts events and dates from documents and lays them out as a chronological timeline.
+**[Semantic Timeline Generator](https://github.com/ashimaryal25-ops/Semantic_Timeline_Generator):** An NLP tool that extracts events and dates from documents and lays them out as a chronological timeline.
 
 ---
 
