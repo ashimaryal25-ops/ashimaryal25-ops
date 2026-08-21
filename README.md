@@ -18,7 +18,7 @@
 
 **[PrintFarm](https://github.com/ashimaryal25-ops/printfarm)** —  A no-root orchestration software for Creality printer farms — discover, monitor, and auto-route jobs on stock hardware.
 
-**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, step by step. → **[Live demo](https://ask-jack-production.up.railway.app/)**
+**[Jack](https://github.com/ashimaryal25-ops/ask-jack)** — an *agentic RAG* assistant that walks complete beginners through makerspace equipment, step by step.
 
 **[Semantic Timeline Generator](https://github.com/ashimaryal25-ops/Semantic_Timeline_Generator)** — an NLP tool that extracts events and dates from documents and lays them out as a chronological timeline.
 
